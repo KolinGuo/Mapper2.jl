@@ -17,7 +17,7 @@ dimensions. This is still a work in progress, but has matured over the last coup
 This package is not a registered Julia package. To install, run the command
 
 ```julia
-]add https://github.com/hildebrandmw/Mapper.jl
+]add https://github.com/KolinGuo/Mapper.jl
 ```
 
 All dependent packages should be installed. To verify the installation, run
